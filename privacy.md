@@ -28,4 +28,4 @@ By using Overture Audio Player you consent to our privacy policy.
 
 If you have questions regarding this privacy policy you may contact overtureaudioplayer@gmail.com.
 
-### Updated March 12, 2020
+Updated March 12, 2020
